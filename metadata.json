@@ -1,0 +1,6 @@
+{
+  "name": "Remix Video Quality Analyst AI",
+  "description": "An AI-powered tool to analyze video recordings and call recordings for quality, sentiment, and payment consent verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
